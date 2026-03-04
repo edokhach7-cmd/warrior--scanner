@@ -1,1 +1,1 @@
-# warrior--scanner
+# warrior-scanner
